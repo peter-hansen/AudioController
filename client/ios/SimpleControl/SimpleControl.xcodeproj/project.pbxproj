@@ -461,6 +461,7 @@
 				10D9005C2032B9860018C2AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
